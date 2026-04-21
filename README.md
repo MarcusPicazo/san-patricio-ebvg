@@ -1,16 +1,20 @@
 # ☘️ St. Patrick's 3D Educational Adventure | Aventura Educativa 3D
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)]()
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=githubpages)](https://marcuspicazo.github.io/ebvg-hoot/)
 
 *(Scroll down for Spanish / Baja para la versión en español)*
+
+---
 
 ## 🇬🇧 English
 
 ### About the Project
-An interactive 3D educational web application designed for the Berta von Glumer School. It teaches students the history and myths of St. Patrick's Day through immersive storytelling and 5 dynamic minigames.
+An interactive 3D educational web application designed for the Berta Von Glümer School. It teaches students the history and myths of St. Patrick's Day through immersive storytelling and 5 dynamic minigames.
+
+### 🔗 Live Link
+Access the live experience here: [https://marcuspicazo.github.io/ebvg-hoot/](https://marcuspicazo.github.io/ebvg-hoot/)
 
 ### Technical Highlights
 Refactored from legacy code into a modern, scalable architecture featuring:
@@ -29,7 +33,10 @@ Refactored from legacy code into a modern, scalable architecture featuring:
 ## 🇪🇸 Español
 
 ### Sobre el Proyecto
-Una aplicación web educativa e interactiva en 3D diseñada para la Escuela Berta von Glumer. Enseña a los alumnos la historia y los mitos del Día de San Patricio a través de una narrativa inmersiva y 5 minijuegos dinámicos.
+Una aplicación web educativa e interactiva en 3D diseñada para la Escuela Berta Von Glümer. Enseña a los alumnos la historia y los mitos del Día de San Patricio a través de una narrativa inmersiva y 5 minijuegos dinámicos.
+
+### 🔗 Enlace a la plataforma
+Puedes probar la experiencia en vivo aquí: [https://marcuspicazo.github.io/ebvg-hoot/](https://marcuspicazo.github.io/ebvg-hoot/)
 
 ### Aspectos Técnicos Destacados
 Refactorizado desde código heredado hacia una arquitectura moderna y escalable que incluye:
@@ -42,3 +49,6 @@ Refactorizado desde código heredado hacia una arquitectura moderna y escalable 
 1. Clona el repositorio: `git clone https://github.com/MarcusPicazo/san-patricio-ebvg.git`
 2. Instala las dependencias: `npm install`
 3. Inicia el servidor local: `npm run dev`
+
+---
+Developed by / Desarrollado por **Marco Antonio Escalona García** - Systems Engineer & AI Product Engineer
