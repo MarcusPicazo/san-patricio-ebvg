@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=githubpages)](https://marcuspicazo.github.io/ebvg-hoot/)
+[![Live Demo](https://marcuspicazo.github.io/san-patricio-ebvg/)
 
 *(Scroll down for Spanish / Baja para la versión en español)*
 
@@ -14,7 +14,7 @@
 An interactive 3D educational web application designed for the Berta Von Glümer School. It teaches students the history and myths of St. Patrick's Day through immersive storytelling and 5 dynamic minigames.
 
 ### 🔗 Live Link
-Access the live experience here: [https://marcuspicazo.github.io/ebvg-hoot/](https://marcuspicazo.github.io/ebvg-hoot/)
+Access the live experience here: [https://marcuspicazo.github.io/san-patricio-ebvg/](https://marcuspicazo.github.io/san-patricio-ebvg/)
 
 ### Technical Highlights
 Refactored from legacy code into a modern, scalable architecture featuring:
@@ -36,7 +36,7 @@ Refactored from legacy code into a modern, scalable architecture featuring:
 Una aplicación web educativa e interactiva en 3D diseñada para la Escuela Berta Von Glümer. Enseña a los alumnos la historia y los mitos del Día de San Patricio a través de una narrativa inmersiva y 5 minijuegos dinámicos.
 
 ### 🔗 Enlace a la plataforma
-Puedes probar la experiencia en vivo aquí: [https://marcuspicazo.github.io/ebvg-hoot/](https://marcuspicazo.github.io/ebvg-hoot/)
+Puedes probar la experiencia en vivo aquí: [https://marcuspicazo.github.io/san-patricio-ebvg/](https://marcuspicazo.github.io/san-patricio-ebvg/)
 
 ### Aspectos Técnicos Destacados
 Refactorizado desde código heredado hacia una arquitectura moderna y escalable que incluye:
